@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "69431005f73c8e86dbde11d0"
+  },
+  "brand": "Ray-Ban",
+  "left_graduation": 2.3,
+  "right_graduation": 2,
+  "left_glass_color": "brown",
+  "right_glass_color": "brown",
+  "frame_type": "metal",
+  "frame_color": "black",
+  "price": 127,
+  "supplier_id": {
+    "$oid": "69431066f73c8e86dbde11d1"
+  }
+}]

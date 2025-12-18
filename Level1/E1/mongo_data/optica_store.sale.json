@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "69432904f73c8e86dbde11ed"
+  },
+  "customer_id": {
+    "$oid": "694324eff73c8e86dbde11dd"
+  },
+  "glasses_id": {
+    "$oid": "69431005f73c8e86dbde11d0"
+  },
+  "employee_id": {
+    "$oid": "69432722f73c8e86dbde11ea"
+  },
+  "sale_date": {
+    "$date": "2025-12-17T16:45:00.000Z"
+  }
+}]

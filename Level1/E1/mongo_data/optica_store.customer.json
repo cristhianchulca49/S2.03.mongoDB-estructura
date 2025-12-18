@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "69430880f73c8e86dbde11c7"
+  },
+  "name": "Cristhian Chulca",
+  "address": {
+    "street": "Example Street",
+    "number": 123,
+    "floor": 2,
+    "door": "B",
+    "city": "Madrid",
+    "zip": "28000",
+    "country": "Spain"
+  },
+  "phone": "+34 600123456",
+  "email": "cristhian@email.com",
+  "registration_date": {
+    "$date": "2025-12-17T00:00:00.000Z"
+  },
+  "cliente_id": null
+},
+{
+  "_id": {
+    "$oid": "694324eff73c8e86dbde11dd"
+  },
+  "name": "Laura Gómez",
+  "address": {
+    "street": "Calle Mayor",
+    "number": 45,
+    "floor": 1,
+    "door": "C",
+    "city": "Barcelona",
+    "zip": "08001",
+    "country": "Spain"
+  },
+  "phone": "+34 611234567",
+  "email": "laura.gomez@email.com",
+  "registration_date": {
+    "$date": "2025-11-03T10:30:00.000Z"
+  },
+  "recommended_by": {
+    "$oid": "69430880f73c8e86dbde11c7"
+  }
+}]
