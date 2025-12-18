@@ -9,7 +9,9 @@
   "right_glass_color": "brown",
   "frame_type": "metal",
   "frame_color": "black",
-  "price": 127,
+  "price": {
+    "$numberDecimal": "127.55"
+  },
   "supplier_id": {
     "$oid": "69431066f73c8e86dbde11d1"
   }
